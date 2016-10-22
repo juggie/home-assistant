@@ -273,6 +273,9 @@ netdisco==0.7.1
 # homeassistant.components.sensor.neurio_energy
 neurio==0.2.10
 
+# homeassistant.components.nut
+nut2==2.1.0
+
 # homeassistant.components.switch.orvibo
 orvibo==1.1.1
 
